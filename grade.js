@@ -1,6 +1,6 @@
 
 let prompt = require('prompt-sync')();
-let input = prompt('enter your number: ');
+let input = prompt('enter your number: ');// this is where the grades are entered
 function grade(number){
   if (number<40){
   return "E"
@@ -14,6 +14,6 @@ function grade(number){
   return "A"
 }else if (number >100){
   return "entry invalid"
-}
+}//the if function evalutes the marks of the student and assign it a grade accordingly 
 } 
 console.log(grade(input))
