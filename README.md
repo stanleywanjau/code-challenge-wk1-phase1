@@ -22,6 +22,18 @@ This is a simple JavaScript console application that allows a user to enter spee
 * A computer with a bash terminal and node installed.
 * Access to the internet.
 
+#  Net Salary Calculator
+#### JavaScript Console Application That calculate the basic salary , OCTOBER 08 2023
+#### By **Stanley Wanjau** 
+
+## Description 
+This is a simple JavaScript console application that allows a user to enter salary in the format of number  and evaluate it to get the value of the dedation and netincome
+
+## How to Use
+### Requirements
+* A computer with a bash terminal and node installed.
+* Access to the internet.
+
 ### Installation Process
 1. Clone this repository using
 
@@ -38,6 +50,7 @@ This is a simple JavaScript console application that allows a user to enter spee
     ```bash
       node grade.js
       node speed.js
+      node salary.js
     ```
 
 ## Technologies Used
